@@ -17,7 +17,7 @@ Dataset
 
 Technologies Used
 * Python
-* * Pandas
+* Pandas
 * NumPy
 * Scikit-learn
 * XGBoost
